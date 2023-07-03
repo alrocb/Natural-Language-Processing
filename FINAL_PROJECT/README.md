@@ -28,6 +28,7 @@ After successful installation of the required software, you are ready to proceed
 To experiment with the approaches provided, run either the RuleBased_approach.py or the Machine_approach.py file. The decision between these approaches depends on your specific use-case or interest in one method over the other.
 
 
-@credits to Nil Biescas
 
 This project opens up possibilities for improving and expediting patient care by harnessing the power of machine learning and rule-based detection. We hope it proves to be beneficial in your research or application.
+
+@credits to Nil Biescas
