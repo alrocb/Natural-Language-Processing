@@ -1,4 +1,8 @@
 # DETECTION OF NEGATIONS AND UNCERTAINTIES IN DISCHARGED MEDICAL TEXTS
+
+PROJECT GROUP MEMBERS: NIL BIESCAS, XAVIER SOTO, ALEX ROLDAN
+
+
 This project aims to explore and effectively detect the expressions of negations and uncertainties within medical discharge summaries. In the medical field, understanding such nuances is essential to accurate diagnosis, prognosis, and ultimately patient care. This project aims to provide an effective, automated solution that can facilitate and expedite this process, reducing the scope for human error and increasing the speed of healthcare service provision.
 <p align="center">
   <img width="500" alt="image" src="https://github.com/NilBiescas/Project_NLP/assets/98542048/628ac09c-27c8-48a8-9acd-e48f0b79c061">
@@ -22,5 +26,8 @@ After successful installation of the required software, you are ready to proceed
 
 ### Executing the Program:
 To experiment with the approaches provided, run either the RuleBased_approach.py or the Machine_approach.py file. The decision between these approaches depends on your specific use-case or interest in one method over the other.
+
+
+@credits to Nil Biescas
 
 This project opens up possibilities for improving and expediting patient care by harnessing the power of machine learning and rule-based detection. We hope it proves to be beneficial in your research or application.
